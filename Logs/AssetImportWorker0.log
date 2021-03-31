@@ -763,3 +763,211 @@ System memory in use after: 85.1 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1596.
 Total: 1.593000 ms (FindLiveObjects: 0.139500 ms CreateObjectMapping: 0.042600 ms MarkObjects: 1.354800 ms  DeleteObjects: 0.055000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 2541.832930 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(c35d7adbb86028e4c92dc5b44526d032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(c35d7adbb86028e4c92dc5b44526d032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962718b277ccf3e7773ef2d2b202f1cf') in 0.011630 seconds
+  Import took 0.014075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(c35d7adbb86028e4c92dc5b44526d032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(c35d7adbb86028e4c92dc5b44526d032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962718b277ccf3e7773ef2d2b202f1cf') in 0.003582 seconds
+  Import took 0.005411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.317797 seconds.
+  path: Assets/Game
+  artifactKey: Guid(aaca80d53c53e2e44aa5d1ffaf8d7906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game using Guid(aaca80d53c53e2e44aa5d1ffaf8d7906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9842ff5872e96db7c402a64f9201853') in 0.008212 seconds
+  Import took 0.010851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.046109 seconds.
+  path: Assets/UI
+  artifactKey: Guid(4dfb0750236715f42b96c71d8738c5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(4dfb0750236715f42b96c71d8738c5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a8918490f8b575e26f49ae94836a6f') in 0.008989 seconds
+  Import took 0.011173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.984995 seconds.
+  path: Assets/Asset Packs/Terrain Textures/Dirt.terrainlayer
+  artifactKey: Guid(43ade44358e467848a97964c09d8f608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Terrain Textures/Dirt.terrainlayer using Guid(43ade44358e467848a97964c09d8f608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1487f6f619143f070c706c78cdb920dc') in 0.057413 seconds
+  Import took 0.059991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Asset Packs/Terrain Textures/Green Grass.terrainlayer
+  artifactKey: Guid(cce68f1ac44c0d0499f9471fcddcda44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Terrain Textures/Green Grass.terrainlayer using Guid(cce68f1ac44c0d0499f9471fcddcda44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80dbc5e5ec918a7c155fa0080e62064d') in 0.031149 seconds
+  Import took 0.033788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Asset Packs/Terrain Textures/Road.terrainlayer
+  artifactKey: Guid(cc3fdd52c31442f42889ac9097575ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Terrain Textures/Road.terrainlayer using Guid(cc3fdd52c31442f42889ac9097575ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9805ca09e369ef7a22e33baa7f5761d3') in 0.018943 seconds
+  Import took 0.020908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.838083 seconds.
+  path: Assets/Asset Packs/Terrain Textures/Sandbox Terrain.asset
+  artifactKey: Guid(66e20f4da39ae1743998d1959f3dc1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Terrain Textures/Sandbox Terrain.asset using Guid(66e20f4da39ae1743998d1959f3dc1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6504a5f492b1e789bef9620c7771cf') in 0.039732 seconds
+  Import took 0.042760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.886599 seconds.
+  path: Assets/Scenes/Sandbox/NavMesh.asset
+  artifactKey: Guid(8addad9c1ada9934b9f30a2388026596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sandbox/NavMesh.asset using Guid(8addad9c1ada9934b9f30a2388026596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e36676b603b15dd5cc2becd31d19c9') in 0.008449 seconds
+  Import took 0.010899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.910666 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(2c98187df041d174a8d2e774f13dcf6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(2c98187df041d174a8d2e774f13dcf6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e90522b3079a7cf21a8de14280b6b5') in 0.052786 seconds
+  Import took 0.058512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.760191 seconds.
+  path: Assets/Game/Core
+  artifactKey: Guid(ee0a89ffb3c7ab44eb5e086139f61ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Core using Guid(ee0a89ffb3c7ab44eb5e086139f61ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bde89bb739cef94d6318a31f28d3778') in 0.008106 seconds
+  Import took 0.010434 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000735 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 1.759400 ms (FindLiveObjects: 0.144400 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.507900 ms  DeleteObjects: 0.061300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.370224 seconds.
+  path: Assets/Scenes/Sandbox.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sandbox.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3238b9747469e37c8935442649c3d18f') in 0.017863 seconds
+  Import took 0.020076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.012534 seconds.
+  path: Assets/Game/Environments
+  artifactKey: Guid(75f30a54f5a4e7041a707596ab127465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Environments using Guid(75f30a54f5a4e7041a707596ab127465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5975dff72df6cb01effeab7a11845f') in 0.008185 seconds
+  Import took 0.010228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.055531 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Models/Characters_POLYGON_Knights.fbx
+  artifactKey: Guid(d288a0e4a2d923b46898986e979da643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Models/Characters_POLYGON_Knights.fbx using Guid(d288a0e4a2d923b46898986e979da643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb88a62829e355cbf63badaef0405c50') in 0.120173 seconds
+  Import took 0.122566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Orange.mat
+  artifactKey: Guid(78be5954566d2d848918e51832341fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Orange.mat using Guid(78be5954566d2d848918e51832341fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bffef003ff5f1e8f786bf1f25f6e834') in 0.062289 seconds
+  Import took 0.064157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Orange.png
+  artifactKey: Guid(d7eabf4cd0cdfe448be3b905cd731d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Orange.png using Guid(d7eabf4cd0cdfe448be3b905cd731d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e2f0aed01075daba8d63ebdfae1df3') in 0.031836 seconds
+  Import took 0.033729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureMaterial_01.mat
+  artifactKey: Guid(fa8eda4ec55ee1a4e99ca991c5828dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureMaterial_01.mat using Guid(fa8eda4ec55ee1a4e99ca991c5828dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef023c75270c3227fae0c569c4b95da') in 0.021948 seconds
+  Import took 0.024266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Black.png
+  artifactKey: Guid(e842427a572cdcb439fe256d0de3e8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Black.png using Guid(e842427a572cdcb439fe256d0de3e8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106c3136d8ec0e6bdde92b2f92678f93') in 0.017938 seconds
+  Import took 0.019973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Red.png
+  artifactKey: Guid(881cde1dc105a5744b78cf3bf14f25cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Red.png using Guid(881cde1dc105a5744b78cf3bf14f25cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc1e9cb41cc807d0a25ae4051e0f573') in 0.028209 seconds
+  Import took 0.030338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Blue.mat
+  artifactKey: Guid(3f6fc0cf5e5d31c458bc74ede87cb8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Blue.mat using Guid(3f6fc0cf5e5d31c458bc74ede87cb8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7c9fa3cad857fb8d23d14e183c2aeb') in 0.028429 seconds
+  Import took 0.030841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Blue.png
+  artifactKey: Guid(3d337c96239e1f746a3c65eb5d66a678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Blue.png using Guid(3d337c96239e1f746a3c65eb5d66a678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f902d122efee92c304d6592926819e7e') in 0.013349 seconds
+  Import took 0.015409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Black.mat
+  artifactKey: Guid(01b2546c969fe814794af634cb4534f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Black.mat using Guid(01b2546c969fe814794af634cb4534f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1f52249b945ae6ff4258b722733fd02') in 0.016619 seconds
+  Import took 0.018567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Red.mat
+  artifactKey: Guid(bfbe2e8b331e2cc42be1591f949c0e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Red.mat using Guid(bfbe2e8b331e2cc42be1591f949c0e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40604f1d7a98d106e24fdf268de91cd3') in 0.014895 seconds
+  Import took 0.016904 seconds .
+
