@@ -20,8 +20,14 @@ namespace RPG.Combat
             }
             else
             {
-                GetComponent<Mover>().Stop();
+                GetComponent<Mover>().Cancel();
+                AttackBehavior();
             }
+        }
+
+        private void AttackBehavior()
+        {
+            GetComponent<Animator>().SetTrigger("attack");
         }
 
         private bool GetIsInRange()
@@ -31,6 +37,7 @@ namespace RPG.Combat
 
         public void Attack(CombatTarget combatTarget)
         {
+
             GetComponent<ActionScheduler>().StartAction(this);
             target = combatTarget.transform;
         }
@@ -38,6 +45,12 @@ namespace RPG.Combat
         public void Cancel()
         {
             target = null;
+        }
+
+        //Animation Event
+        void Hit()
+        {
+
         }
     }
 }
