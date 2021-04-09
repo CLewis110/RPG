@@ -1,17 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &6967254014875533720
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1005348742584862624}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c33694ec96b0f149869d11ece5b7a57, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &6853046777639913269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24,6 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb941d6bd0ab63346a8649f8e409cf8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &6967254014875533720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1005348742584862624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c33694ec96b0f149869d11ece5b7a57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &117454602591777364
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34,6 +34,10 @@ PrefabInstance:
     - target: {fileID: 888052505389282804, guid: 2c98187df041d174a8d2e774f13dcf6e, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 4574242593055099108, guid: 2c98187df041d174a8d2e774f13dcf6e, type: 3}
+      propertyPath: weaponRange
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 4772065476012095457, guid: 2c98187df041d174a8d2e774f13dcf6e, type: 3}
       propertyPath: m_RootOrder
