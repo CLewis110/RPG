@@ -9,6 +9,11 @@ namespace RPG.Combat
 
         bool isDead = false;
 
+        public bool IsDead()
+        {
+            return isDead;
+        }
+
         public void Start()
         {
             anim = GetComponent<Animator>();
