@@ -1,18 +1,40 @@
+using RPG.Combat;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AIController : MonoBehaviour
+namespace RPG.Control
 {
-    // Start is called before the first frame update
-    void Start()
+    public class AIController : MonoBehaviour
     {
-        
-    }
+        [SerializeField] float chaseDistance = 5f;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Fighter fighter;
+        GameObject player;
+
+        private void Start()
+        {
+            fighter = GetComponent<Fighter>();
+            player = GameObject.FindWithTag("Player");
+        }
+        private void Update()
+        {
+
+            if (InAttackRangeOfPlayer(player) && fighter.CanAttack(player))
+            {
+                fighter.Attack(player);
+            }
+            else
+            {
+                fighter.Cancel();
+            }
+        }
+
+        private bool InAttackRangeOfPlayer(GameObject player)
+        {
+            float distanceToPlayer = Vector3.Distance(player.transform.position, transform.position);
+            return distanceToPlayer < chaseDistance;
+        }
     }
 }
+
