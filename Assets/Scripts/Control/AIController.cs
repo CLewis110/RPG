@@ -35,10 +35,18 @@ namespace RPG.Control
             }
         }
 
+        //Check if player is in range of enemy
         private bool InAttackRangeOfPlayer(GameObject player)
         {
             float distanceToPlayer = Vector3.Distance(player.transform.position, transform.position);
             return distanceToPlayer < chaseDistance;
+        }
+
+        //Display Gizmos to display enemy detection range
+        private void OnDrawGizmosSelected()
+        {
+            Gizmos.color = Color.blue;
+            Gizmos.DrawWireSphere(transform.position, chaseDistance);
         }
     }
 }
