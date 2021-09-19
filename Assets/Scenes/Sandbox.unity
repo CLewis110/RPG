@@ -1857,6 +1857,10 @@ PrefabInstance:
       propertyPath: weaponDamage
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 7060970124708809939, guid: 2c72c1ae299071445a4cf965c55bac3b, type: 3}
+      propertyPath: m_Speed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7903647912453740406, guid: 2c72c1ae299071445a4cf965c55bac3b, type: 3}
       propertyPath: m_Name
       value: Enemy
@@ -3346,7 +3350,7 @@ PrefabInstance:
     - target: {fileID: 3837259251591035676, guid: 2c72c1ae299071445a4cf965c55bac3b, type: 3}
       propertyPath: patrolPath
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 133039162626305459}
     - target: {fileID: 3837259251591035676, guid: 2c72c1ae299071445a4cf965c55bac3b, type: 3}
       propertyPath: chaseDistance
       value: 10
